@@ -20,7 +20,7 @@ The Tensorflow version used for training is 2.8.0. If tensorflow is not installe
 `pip install tensorflow`
 
 ## Dataset
-The dataset used in this project was "Hindi Character Recognition". This [dataset](https://www.kaggle.com/suvooo/hindi-character-recognition) is available in kaggle and you you can download it by pressing on the dataset link
+The dataset used in this project was "Hindi Character Recognition". This [dataset](https://www.kaggle.com/suvooo/hindi-character-recognition) is available in kaggle and you you can download it by clicking on the dataset link
 
 ## File Descriptions
 This repository consists of 3 files:
