@@ -13,16 +13,16 @@ Demo link: [HindiCharacterRecognition](http://54.163.19.56:8501/)
 ## Project Overview
 This project is related to image classification in computer vision domain. In this project many libraries like Tensorflow, openCV, matplotlib etc and concepts of Deep Learning like "Transfer Learning" are used to train the model.
 
-## Systen Requirements:
+## System Requirements:
 For this project I used Google colab to train my model
 The Tensorflow version used for training is 2.8.0. If tensorflow is not installed in you system you can download it using this command
 
 `pip install tensorflow`
 
-## Dataset used
+## Dataset
 The dataset used in this project was "Hindi Character Recognition". This [dataset](https://www.kaggle.com/suvooo/hindi-character-recognition) is available in kaggle and you you can download it by pressing on the dataset link
 
-## File Description
+## File Descriptions
 This repository consists of 3 files:
 #### 1. HindiCharacterRecognition_Preprocessing&Modeling.ipynb: 
 This ipython notebook consists of the Pre-processing steps and the modeling part
