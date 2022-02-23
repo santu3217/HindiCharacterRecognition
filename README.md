@@ -20,12 +20,18 @@ The Tensorflow version used for training is 2.8.0. If tensorflow is not installe
 `pip install tensorflow`
 
 ## Dataset used
-The dataset used in this project was "Hindi Character Recognition". This dataset is available in kaggle and you you can download it using this [Link](https://www.kaggle.com/suvooo/hindi-character-recognition)
+The dataset used in this project was "Hindi Character Recognition". This [dataset](https://www.kaggle.com/suvooo/hindi-character-recognition) is available in kaggle and you you can download it by pressing on the dataset link
 
 ## File Description
 This repository consists of 3 files:
-### 1. HindiCharacterRecognition_Preprocessing&Modeling.py : 
-This python notebook consists 
+#### 1. HindiCharacterRecognition_Preprocessing&Modeling.ipynb: 
+This ipython notebook consists of the Pre-processing steps and the modeling part
+
+#### 2. HindiCharacterRecognition_Covert2TFlite.ipynb:
+This ipython notebook has the revelent steps and code for convering TF model to TF Lite model so that we can deploy and run this model in Mobile devices also
+
+#### 3. HindiCharacterRecognition_Pedictions.ipynb:
+This ipython notebook consists of steps and code to load and test the trained model
 
 
 
